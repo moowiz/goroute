@@ -1,0 +1,5 @@
+package goroute
+
+func init() {
+	
+}
